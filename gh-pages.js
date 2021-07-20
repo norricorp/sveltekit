@@ -1,7 +1,7 @@
 import { publish } from 'gh-pages';
 
 publish(
-	'public', // path to public directory
+	'build', // path to public directory
 	{
 		branch: 'gh-pages',
 		repo: 'https://github.com/norricorp/norricorp.github.io.git', // Update to point to your repository
