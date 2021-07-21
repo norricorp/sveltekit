@@ -3,9 +3,9 @@
 </svelte:head>
 
 <nav>
-	<a href=".">Home</a>
-	<a href="about">About</a>
-	<a href="settings">Settings</a>
+	<a href="./">Home</a>
+	<a href="./about">About</a>
+	<a href="./settings">Settings</a>
 </nav>
 
 <br style ="line-height:3;">
